@@ -3,7 +3,8 @@ using namespace std;
 
 class A{
 private:
-    int a = 2; double b = 1.51;
+    int a = 2; char b = 'w';
+    int b1 = 100;
 };
 
 int main(int argc, char const *argv[])
