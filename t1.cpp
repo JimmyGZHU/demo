@@ -5,5 +5,6 @@ namespace{
     public:
         int a = 2;
         char *b1 = "b1修改t1.cpp";
+        char *b2 = "b2修改t1.cpp";
     };
 }
